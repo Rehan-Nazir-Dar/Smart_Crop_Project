@@ -32,7 +32,3 @@ An AI-powered smart agriculture system that detects crop health issues, predicts
 - Predicts pest risks based on crop + weather data
 - Suggests pesticide usage
 - Supports automatic pesticide spraying
-
----
-
-## 🧠 System Architecture
